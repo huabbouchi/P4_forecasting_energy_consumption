@@ -8,7 +8,8 @@
     <strong> Data Scientist </strong>
 </p>
 <br>
-<a name="C1">Présentation</a>
+
+## Présentation
 
 Je travaille pour la ville de Seattle. Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, notre équipe s’intéresse de près aux émissions des bâtiments non destinés à l’habitation.
 ***
